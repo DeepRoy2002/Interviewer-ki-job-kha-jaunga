@@ -1,0 +1,18 @@
+{
+    "total_interviews_conducted": 3,
+    "evaluations": [
+        {
+            "topic": "Gen AI",
+            "score": 1.0
+        },
+        {
+            "topic": "java",
+            "score": 1.0
+        },
+        {
+            "topic": "java",
+            "score": 5.0
+        }
+    ],
+    "average_readiness_score": 2.33
+}

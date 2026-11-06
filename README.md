@@ -84,7 +84,7 @@ Interviewer-ki-job-kha-jaunga/
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DeepRoy2002/Interviewer-ki-job-kha-jaunga.git
 cd Interviewer-ki-job-kha-jaunga
 ```
 
@@ -128,7 +128,7 @@ FAISS_STORE_PATH=faiss_store
 From the project root:
 
 ```bash
-python main.py
+streamlit run main.py
 ```
 
 This starts the Streamlit app and opens the interview mentoring platform in the browser.
@@ -153,10 +153,6 @@ This starts the Streamlit app and opens the interview mentoring platform in the 
 ## Notes
 
 This project is a functional MVP/prototype and is best suited for experimentation and extension. It is not yet structured as a production-grade application with persistent user accounts, secure data storage, or a fully hardened API layer.
-
-## License
-
-This project does not currently declare an explicit license. Add one if you plan to distribute or reuse it publicly.
 
 ## Future Improvements
 
